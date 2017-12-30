@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('access-dynamics-interface-release.aar'))
